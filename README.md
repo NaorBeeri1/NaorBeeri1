@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naor Beeri
 
-💻 Fullstack Developer | Python, Flask, JavaScript, SQL | AI-Assisted Architecture & Automation Specialist
+💻 Fullstack Developer | Python, Flask, JavaScript, SQL | AI-Assisted Architecture & Automation Specialist[cite: 1]
 🛠️ Experienced in building business-critical automation engines, enterprise web apps, and data interfaces[cite: 1].
 
 ---
