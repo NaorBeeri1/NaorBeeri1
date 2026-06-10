@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Naor Beeri
 
 💻 Fullstack Developer | Python, Flask, JavaScript, SQL | AI-Assisted Architecture & Automation Specialist
+🌐 **[Check out my Portfolio Website](https://NaorBeeri1.github.io)**
 🛠️ Experienced in building business-critical automation engines, enterprise web apps, and data interfaces.
 
 ---
@@ -23,15 +24,16 @@
 > High-performance Windows native automation engine utilizing PowerShell 5.1 and Win32 P/Invoke hooks (`user32.dll`) to orchestrate multi-tab monitoring screens. Implements transactional atomic state handling and local logging telemetry.
 > **Tech:** PowerShell 5.1, Win32 Interop, Windows Forms, JSON Deserialization
 
-#### 📊 [Corporate BI Dashboard & Analytics Showcase Platform](https://github.com/NaorBeeri1/Data-Analytics-Showcase)
+#### 📊 [Corporate BI Dashboard & Analytics Showcase Platform](https://github.com/NaorBeeri1/Data-Analytics-Showcase) | [Live Demo](https://naorbeeri1.github.io/Data-Analytics-Showcase/)
 > Premium, client-validated frontend web interface engineered to display complex business analytics and data streams. Features responsive layout design using custom CSS variables, fluid typography, and active script tracking loops.
 > **Tech:** HTML5 (RTL Architecture), CSS3 Grid/Flexbox, Vanilla JavaScript, Intersection Observer API
 
 ---
 
 ### 📫 Get in touch
-- 📧 naorbeeri@outlook.co.il
-- 💼 [LinkedIn](https://www.linkedin.com/in/naorbeeri/)
+- 🌍 **Portfolio:** [NaorBeeri1.github.io](https://NaorBeeri1.github.io)
+- 📧 **Email:** naorbeeri@outlook.co.il
+- 💼 **LinkedIn:** [linkedin.com/in/naorbeeri](https://www.linkedin.com/in/naorbeeri/)
 
 ---
 
