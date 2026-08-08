@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naor Beeri
 
-🎮 **Game Developer & Software Engineer** | Computer Science Student (HIT)
+🎮 **Game Developer & Software Engineer** | Computer Science Student
 ⚙️ Experienced in building high-performance C# / Unity systems, full-stack web applications, and enterprise automation engines.
 
 ---
